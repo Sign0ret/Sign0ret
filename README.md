@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I’m @Sign0ret, I am 19 years old<br>I’m on my way to become a software engineer<br>I’m currently working on a saas for arquitects called Ladrillo (brick in spanish).<br>My inspiration is NextJS and Guillermo Rauch<br>How to reach me: adolfo.h.signoret@gmail.com
 
 
