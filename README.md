@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Sign0ret, I am 19 years old<br>👀 I’m on my way to become a software engineer<br>🌱 I’m currently working on a saas for arquitects called Ladrillo (brick in spanish).<br>💞️ My inspiartion is NextJS and Guillermo Rauch<br>📫 How to reach me: adolfo.h.signoret@gmail.com
+Hi, I’m @Sign0ret, I am 19 years old<br>I’m on my way to become a software engineer<br>I’m currently working on a saas for arquitects called Ladrillo (brick in spanish).<br>My inspiration is NextJS and Guillermo Rauch<br>How to reach me: adolfo.h.signoret@gmail.com
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sign0ret&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sign0ret&limit=5&theme=dark&combine_all_yearly_contributions=true)
